@@ -1,6 +1,9 @@
 ### README - **Projeto Base: Portfolio Pessoal**
 
-![Google Developers](https://miro.medium.com/v2/resize:fit:1200/1*acb-tSUW3Tu0LUx_6xkORw.png)
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*acb-tSUW3Tu0LUx_6xkORw.png" alt="Google Developers" style="height: 70px; width: 10%">
+  <img src="https://github.com/user-attachments/assets/cfec2257-334e-40b7-9d33-ffd101f16108" alt="Print da palestra" style="height: 180px; width: 80%;">
+</div>
 
 ---
 
